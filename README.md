@@ -1,0 +1,1 @@
+# mini-schema-exercise
